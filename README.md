@@ -20,4 +20,5 @@ This project is built with:
 - Firebase
 - JavaScript
 - React
+- Node js
 
